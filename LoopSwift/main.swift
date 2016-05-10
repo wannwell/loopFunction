@@ -47,3 +47,5 @@ if (myInt != nil) {
 for test in 2..<5 {
     print(test)
 }
+
+var bookName = "iOS Programming"
